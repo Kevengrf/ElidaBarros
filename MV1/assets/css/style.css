@@ -1038,3 +1038,8 @@ section {
   font-size: 13px;
   color: #ddd;
 }
+
+.link:hover {
+  background-color: #0056b3; /* Cor ao passar o mouse */
+}
+
